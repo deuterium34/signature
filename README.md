@@ -13,4 +13,4 @@
 ## 📦 Установка
 
 ```bash
-go get [github.com/deuterium34/signature](https://github.com/deuterium34/signature)
+go get github.com/deuterium34/signature
